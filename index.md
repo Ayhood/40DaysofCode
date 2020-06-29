@@ -1,7 +1,8 @@
-# 40 Days of Code 
- 
 
-First Time Here? Read the [Intro Post](#introduction)
+
+First Time Here? 
+
+Feel free to read the [Intro Post](#introduction)
 
 ***
 
