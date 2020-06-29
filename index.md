@@ -26,7 +26,7 @@ I spent some time doing mockup plans for a phone layout that looks promising. Th
 
 I don't have some of the art assets yet. Those will come in this week. I'll plan on doing some layout design for those at this point. I've included links to some of the mockup ideas for mobile. The colours are for contrast and not the end design before you think I've got color blind. :) 
 
-[basic layout for mobile](iphonelayout.png)
+[basic layout for mobile](iphonecontent.png)
 
 [basic layout for mobile with bookshelf menu open](iphonebookshelf.png)
 
