@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# 40 Days of Code 
+###### *meh 40 days is close enough to 100 right?* 
 
-You can use the [editor on GitHub](https://github.com/Ayhood/40DaysofCode/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Coding is the magic of our day. Taking tasks that used to take countless hours by hand and pressing the "run" button only to have the program fail and spend more hours fixing the program than it would have taken to do by hand in the first place. So yeah, like magic. Long hours of study. Speaking obscure languages. Dressing in clothes of questionable fashion taste? Yep sounds like wizard mischief to me. 
 
-### Markdown
+Aside from goofy paragraph writing, I've been on a coding kick this year, and I noticed that I have 40 days left in summer before I take my pre-fall-semester vacation. While not a 100 days of coding, 40 days of coding can still provide me with some of that social pressure to stick to a routine. My goal here is two fold. First to get some good headway on some projects that I've been kicking around for a while now. Second, to get in the habit of spending time studying/working each day that I can transition to using for school work come fall term. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How does this work? 
+- I will be spending an hour a day working on some sort of programming/coding work. 
+- The next day, 5 mins before I start, I will update what I did the previous day. 
+  - This will also help me figure out where I left off (although that would never happen, right?) and jump right back in. 
+  - I'll put these updates on my github which will also contain any cool programs I make that are worth sharing. 
+- The will run from June 27 through Aug 6th.
 
-```markdown
-Syntax highlighted code block
+Most updates will be much shorter than this intro post so no need to fear anymore weird metaphors. 
+With that, let's get started.  
 
-# Header 1
-## Header 2
-### Header 3
+***
 
-- Bulleted
-- List
+### Day 01:
+#### 2020-06-27: Saturday
+Spent most of the day working on some CSS stylings to create a custom design for a friend's Dungeons and Dragons campaign. Much of the ones I've seen are based off of print layout so I wanted to make something that adapted to both tablet and mobile and various screen resolutions. 
 
-1. Numbered
-2. List
+I spent some time doing mockup plans for a phone layout that looks promising. The desktop version is still very similar to a print layout. Still trying to decide if what I want to do there. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ayhood/40DaysofCode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I don't have some of the art assets yet. Those will come in this week. I'll plan on doing some layout design for those at this point. 
