@@ -3,6 +3,13 @@
 First Time Here? 
 
 Feel free to read the [Intro Post](#introduction)
+***
+
+### Day 03:
+#### 2020-06-29: Monday
+
+Spent some good time brushing up on some python to prep for some scripting that I'll need to do. Also worked on getting a web framework ready for the front end design.
+
 
 ***
 
