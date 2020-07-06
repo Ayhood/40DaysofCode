@@ -3,6 +3,42 @@
 First Time Here? 
 
 Feel free to read the [Intro Post](#introduction)
+
+***
+
+### Day 09
+#### 2020-07-5: Sunday
+The move is mostly done and I'm able to post again. Hooray. Just in time to go back to work. I got some good work into a setting up the back end for my D&D project. Still a long way to go, but making progress feels good. I've decided to go with a flask build for this project.  
+
+***
+
+### Day 08:
+#### 2020-07-04: Saturday
+My computer scattered across the house as I move. Learning some coding the old fashion way with some books. 
+
+***
+
+### Day 07:
+#### 2020-07-03: Friday
+
+A three day weekend with no plans? Sounds like time to get all that "Spring" cleaning done. My sleep has been a crazy mess recently and in an attempt to help myself not wake up in the middle of the night as much, I'm switching the bedroom and the office. That means my internet and computer will be unplugged most of the weekend. I will still be able to do some coding work (mostly research and study) but will post updates when I can. 
+
+***
+
+### Day 06:
+#### 2020-07-02: Thursday
+Started to play around with Flask a bit. I like the flexibility. Overall it's more complex than Anvil, but is more scalable and customizable. 
+***
+
+### Day 05:
+#### 2020-07-01: Wednesday
+tried out Anvil. I like the simplicity of the interface and the creation of a fullstack without having to know 10 languages. 
+
+***
+
+### Day 04:
+#### 2020-06-30: Tuesday
+Going back and forth on which framework to use for my main project. I've narrowed it down to using either Anvil or FLask/Bootstrap/SQLAlchemy. I will be reading into each option and trying out a few test cases over the next few days.  
 ***
 
 ### Day 03:
